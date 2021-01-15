@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/recipe-slicer/static/css/main.909eb33e.chunk.css",
-    "main.js": "/recipe-slicer/static/js/main.e82634dd.chunk.js",
-    "main.js.map": "/recipe-slicer/static/js/main.e82634dd.chunk.js.map",
+    "main.js": "/recipe-slicer/static/js/main.88b2ef08.chunk.js",
+    "main.js.map": "/recipe-slicer/static/js/main.88b2ef08.chunk.js.map",
     "runtime-main.js": "/recipe-slicer/static/js/runtime-main.945a4241.js",
     "runtime-main.js.map": "/recipe-slicer/static/js/runtime-main.945a4241.js.map",
     "static/js/2.070fcd4d.chunk.js": "/recipe-slicer/static/js/2.070fcd4d.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.945a4241.js",
     "static/js/2.070fcd4d.chunk.js",
     "static/css/main.909eb33e.chunk.css",
-    "static/js/main.e82634dd.chunk.js"
+    "static/js/main.88b2ef08.chunk.js"
   ]
 }
