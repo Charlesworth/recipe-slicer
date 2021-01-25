@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/recipe-slicer/static/css/main.909eb33e.chunk.css",
-    "main.js": "/recipe-slicer/static/js/main.88b2ef08.chunk.js",
-    "main.js.map": "/recipe-slicer/static/js/main.88b2ef08.chunk.js.map",
+    "main.js": "/recipe-slicer/static/js/main.b3bd0795.chunk.js",
+    "main.js.map": "/recipe-slicer/static/js/main.b3bd0795.chunk.js.map",
     "runtime-main.js": "/recipe-slicer/static/js/runtime-main.945a4241.js",
     "runtime-main.js.map": "/recipe-slicer/static/js/runtime-main.945a4241.js.map",
-    "static/js/2.070fcd4d.chunk.js": "/recipe-slicer/static/js/2.070fcd4d.chunk.js",
-    "static/js/2.070fcd4d.chunk.js.map": "/recipe-slicer/static/js/2.070fcd4d.chunk.js.map",
+    "static/js/2.bb34473f.chunk.js": "/recipe-slicer/static/js/2.bb34473f.chunk.js",
+    "static/js/2.bb34473f.chunk.js.map": "/recipe-slicer/static/js/2.bb34473f.chunk.js.map",
     "index.html": "/recipe-slicer/index.html",
     "static/css/main.909eb33e.chunk.css.map": "/recipe-slicer/static/css/main.909eb33e.chunk.css.map",
-    "static/js/2.070fcd4d.chunk.js.LICENSE.txt": "/recipe-slicer/static/js/2.070fcd4d.chunk.js.LICENSE.txt"
+    "static/js/2.bb34473f.chunk.js.LICENSE.txt": "/recipe-slicer/static/js/2.bb34473f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.945a4241.js",
-    "static/js/2.070fcd4d.chunk.js",
+    "static/js/2.bb34473f.chunk.js",
     "static/css/main.909eb33e.chunk.css",
-    "static/js/main.88b2ef08.chunk.js"
+    "static/js/main.b3bd0795.chunk.js"
   ]
 }
